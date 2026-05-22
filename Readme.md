@@ -250,23 +250,24 @@ pip install -r requirements.txt
 ```bash
 streamlit run dashboard/app.py
 ```
+# Live Deployment
+
+## Streamlit Application
+
+Access the deployed dashboard here:
+
+[🔗 Live Predictive Maintenance Dashboard](https://pred-maint-cost-forcast-industrial-asset-companier.streamlit.app/)
 
 ---
 
-# Dashboard Screenshots
+## Features Available in Deployment
 
-## Executive Dashboard
-(Add Screenshot Here)
-
-## SHAP Explainability
-(Add Screenshot Here)
-
-## Monte Carlo Risk Forecast
-(Add Screenshot Here)
-
-## Executive PDF Report
-(Add Screenshot Here)
-
+- Interactive Executive Dashboard
+- Financial Risk Analytics
+- Monte Carlo Forecasting
+- SHAP Explainability
+- AI Executive Insights
+- Automated PDF Report Generation
 ---
 
 # Future Enhancements
